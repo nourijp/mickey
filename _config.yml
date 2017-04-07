@@ -10,8 +10,8 @@ relative_permalinks: false
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				 Nur.Reviews
-title:               Nur.Reviews
+name:				         'Nur.Reviews'
+title:               'Nur.Reviews'
 tagline:             'tagline'
 description:         'description'
 url:                 'Nur.Reviews'
@@ -25,15 +25,15 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  name:           	 Nur.Reviews
+  url:            	 Nur.reviews
+  facebook:          Nur.Reviews
+  twitter:           Nur.Reviews
+  google_plus:       Nur.Reviews
+  linkedin:          Nur.Reviews
+  dribbble:          Nur.Reviews
+  pinterest:         Nur.Reviews
+  kiva:              Nur.Reviews
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
